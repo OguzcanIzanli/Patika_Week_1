@@ -1,5 +1,7 @@
 # Pratik - Tablolarla Çalışmak
 
+![gif](https://github.com/OguzcanIzanli/Patika_Week_1/assets/95178772/359c8a8f-205f-41c1-8c26-5b35f4ec29e0)
+
 ## Soru:
 
 Bir HTML sayfası oluşturun. Sayfanın başlığı "Hayvanlar Alemi" olsun. Aşağıdaki unsurları ekleyin:
