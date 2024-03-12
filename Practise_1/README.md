@@ -1,6 +1,6 @@
 # Pratik - Tablolarla Çalışmak
 
-![gif](https://github.com/OguzcanIzanli/Patika_Week_1/assets/95178772/359c8a8f-205f-41c1-8c26-5b35f4ec29e0)
+![website](https://github.com/OguzcanIzanli/Patika_Week_1/assets/95178772/eaf034e0-5cfc-4213-bd47-c70f35ea92aa)
 
 ## Soru:
 
