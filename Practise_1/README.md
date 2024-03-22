@@ -1,6 +1,8 @@
-# Pratik - Tablolarla Çalışmak
+# Practise - Tablolarla Çalışmak
 
-![website](https://github.com/OguzcanIzanli/Patika_Week_1/assets/95178772/eaf034e0-5cfc-4213-bd47-c70f35ea92aa)
+Tablo kullanılarak bir sayfa oluşturuldu.
+
+![page img](images/page_img.png)
 
 ## Soru:
 

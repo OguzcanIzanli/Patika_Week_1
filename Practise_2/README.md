@@ -1,6 +1,8 @@
-# Pratik - Form Elemanları Kullanımı (input, select, textarea vb.)
+# Practise - Form Elemanları Kullanımı (input, select, textarea vb.)
 
-![form](https://github.com/OguzcanIzanli/Patika_Week_1/assets/95178772/d653ef63-d764-48bb-989d-84703b9ea378)
+HTML'de basit bir form yapısı oluştıuruldu.
+
+![page img](images/page_img.png)
 
 ## Soru:
 
